@@ -1,3 +1,6 @@
+# In the Week 1, I have created and file in my desktop and Created upto Path for Training , Testing & Validation Purpose.
+
+
 import tensorflow as tf  # Core TensorFlow library
 
 from tensorflow.keras import layers, models, optimizers, callbacks  # Layers, model creation, optimizers, and training callbacks
