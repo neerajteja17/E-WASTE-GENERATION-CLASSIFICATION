@@ -48,6 +48,3 @@ class_names = datatrain.class_names
 print(class_names)
 
 # -----
-
-# Set the size of the entire figure (width=10, height=10 inches)
-plt.figure(figsize=(10, 10))
